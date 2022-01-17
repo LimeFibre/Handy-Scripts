@@ -59,7 +59,7 @@ elif [ "$1" == "--help" ]; then
     echo "--block - Blocks non-cloudflare proxy IP addresses & requests to port 80 & 443"
 else
     echo "-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~"
-    echo "Command not found, try using ./cloudflare --help"
+    echo "Command not found, try using --help"
 fi
 
 echo "This terminal will clear in 10 seconds."
